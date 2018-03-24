@@ -7,7 +7,7 @@ import pytest
 
 from click.testing import CliRunner
 
-from python_chess import python_chess
+# from python_chess import python_chess
 from python_chess import cli
 
 
