@@ -10,7 +10,7 @@ Python Chess
         :target: https://travis-ci.org/zacharyrsmith/python_chess
 
 .. image:: https://readthedocs.org/projects/python-chess/badge/?version=latest
-        :target: https://python-chess.readthedocs.io/en/latest/?badge=latest
+        :target: https://zacharyrsmithpython-chess.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
@@ -20,7 +20,7 @@ Python Chess runs a chess game.
 
 
 * Free software: MIT license
-* Documentation: https://python-chess.readthedocs.io.
+* Documentation: https://zacharyrsmithpython-chess.readthedocs.io.
 
 
 Features
